@@ -1,6 +1,6 @@
 # IPL Data Analysis (2008-2024) - Power BI Dashboard
 
-![Screenshot 2024-10-30 150913](https://github.com/user-attachments/assets/3c12bd07-7cad-4414-a84a-0c0d6ba626ba)
+![Screenshot 2024-10-30 151118](https://github.com/user-attachments/assets/e2e59d66-95f2-414c-bf5d-a8b6309b3b75)
 
 ![Screenshot 2024-10-30 150932](https://github.com/user-attachments/assets/a4951ea1-b4a8-49cd-854c-a53187585893)
 
